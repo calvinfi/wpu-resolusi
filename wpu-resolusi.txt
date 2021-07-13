@@ -10,7 +10,9 @@ Yang harus dipelajari :
     * Bootstrap 5
     * Tailwind
   3. Javascript
-    *Angular
+    * Angular
   4. PHP
-    *Code Igniter
+    * Laravel
+    * Code Igniter
   5. Database
+    * Mysql
