@@ -10,3 +10,4 @@ Yang harus dipelajari :
   3. Javascript
   4. PHP
   5. Database
+  6. Framework
