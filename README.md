@@ -1,1 +1,2 @@
 # wpu-resolusi
+Silakah dibaca
