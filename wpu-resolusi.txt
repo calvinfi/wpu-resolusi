@@ -7,7 +7,7 @@ WPU RESOLUSI untuk tahun depan :
 Yang harus dipelajari :
   1. HTML (Sudah)
   2. CSS/SCSS (Sudah)
-    * Bootstrap 5
+    * Bootstrap 4 
     * Tailwind
   3. Javascript
     * Angular
