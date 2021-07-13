@@ -13,5 +13,6 @@ Yang harus dipelajari :
     * Angular
   4. PHP
     * Laravel
+    * Code Igniter
   5. Database
     * Mysql
