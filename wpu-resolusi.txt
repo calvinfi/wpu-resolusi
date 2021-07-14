@@ -3,6 +3,7 @@ WPU RESOLUSI untuk tahun depan :
   2. Tahun depan sudah bekerja sebagai Fullstack Web Developer
   3. Belajar minimal 1 hari 3 jam intens dengan materi
   4. Belajar step by step
+  5. Mencari tempat belajar senyaman mungkin
 
 Yang harus dipelajari :
   1. HTML (Sudah)
